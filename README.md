@@ -1,10 +1,10 @@
-# Hey there, I'm a Data-Driven Accounting & Finance Analyst 👋
+# Hey there, I'm a Data-Driven Accounting & Finance Analyst
 
 A precision-focused financial professional blending foundational accounting principles—ledger architecture, trial balance reconciliation, and compliance—with modern programmatic automation. I build tools that eliminate manual spreadsheet friction, audit data structures, and convert complex transaction pipelines into executive-ready insights.
 
 ---
 
-### 🛠️ Core Strengths & Competencies
+###  Core Strengths & Competencies
 
 *   **Financial Frameworks:** Double-Entry Bookkeeping, General Ledger Reconciliation, Trial Balance Auditing, GAAP/IFRS Compliance.
 *   **Systems & Infrastructure:** ERP Systems, SACCO Financial Operations, Core Spreadsheet Engineering (Advanced Excel/VBA).
@@ -12,7 +12,7 @@ A precision-focused financial professional blending foundational accounting prin
 
 ---
 
-### 🚀 Key Technical Achievements in Accounting
+###  Key Technical Achievements in Accounting
 
 #### 🔹 Automated Ledger Reconciliation Engine (Python & SQL)
 *   **The Problem:** Manual reconciliation of multi-source transactional data was causing a 4-day lag in end-of-month closing.
@@ -31,7 +31,7 @@ A precision-focused financial professional blending foundational accounting prin
 
 ---
 
-### 🧮 Featured Portfolio Repositories
+### Featured Portfolio Repositories
 
 1.  **[accounting-ledger-automation](https://github.com/danielmainye/accounting-ledger-automation):** Python tools to extract, clean, and map transaction journals directly into standard trial balance layouts.
 2.  **[financial-ratio-dashboard](https://github.com/danielmainye/financial-ratio-dashboard):** SQL backend and PowerBI frontend visualizing liquidity, profitability, and leverage trends over 5-year corporate cycles.
@@ -47,5 +47,5 @@ A precision-focused financial professional blending foundational accounting prin
 
 ---
 
-### 🤝 Connect With Me
+###  Connect With Me
 *   **Email:** danielmainye09@gmail.com
