@@ -1,4 +1,4 @@
-# Hey there, I'm a Data-Driven Accounting & Finance Analyst
+# Hey there, I'm a Data-Driven Accounting & Finance Analyst 
 
 A precision-focused financial professional blending foundational accounting principles—ledger architecture, trial balance reconciliation, and compliance—with modern programmatic automation. I build tools that eliminate manual spreadsheet friction, audit data structures, and convert complex transaction pipelines into executive-ready insights.
 
